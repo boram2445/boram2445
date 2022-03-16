@@ -2,8 +2,8 @@
 
 | Plugin | README |
 | ------ | ------ |
-| ✨Portfolio ✨| [https://boram2445.github.io/BR_Portfolio/][PlDb] |
-| ✨Notion for record ✨| [https://succulent-billboard-fed.notion.site/Kim-Boram-d7c1a475e7bf4e36a055d8a9c6019ced][PlGh] |
+| ✨Portfolio ✨| https://boram2445.github.io/BR_Portfolio/ |
+| ✨Notion for record ✨| https://succulent-billboard-fed.notion.site/Kim-Boram-d7c1a475e7bf4e36a055d8a9c6019ced |
 
 + hamburger kiosk project-repo https://github.com/joons5834/lot_kiosk
 <!--

@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi I'm Boram Kim 👋
+### ✨portfolio url✨  https://boram2445.github.io/BR_Portfolio/  
 <!--
 **boram2445/boram2445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

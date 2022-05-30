@@ -32,7 +32,7 @@
   <br/>
   <br/>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=boram2445&show_icons=true&custom_title=Boram's&nbsp;github&nbsp;👀&hide_border=true">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boram2445&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&hide_border=true">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boram2445&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&hide_border=true">
 </div>
 <!--
   배워야 할 스택

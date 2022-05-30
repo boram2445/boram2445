@@ -31,8 +31,8 @@
   <br/>
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=boram2445&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boram2445&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=boram2445&show_icons=true&custom_title=Boram's&nbsp;github&nbsp;👀">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boram2445&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️">
 </div>
 <!--
   배워야 할 스택
@@ -51,3 +51,4 @@
   <img src="https://img.shields.io/badge/MaterialUI-0081CB?style=flat-square&logo=Material-UI&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zeplin-FFE4AF?style=flat-square&logo=Zotero&logoColor=black"/> -->
+

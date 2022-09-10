@@ -45,7 +45,7 @@
       </th>
       <th>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boram2445&layout=compact&hide_border=true&theme=graywhite&custom_title=My&nbsp;Language&nbsp;⌨️" />
+         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boram2445&count_private=true&layout=compact&hide_border=true&theme=graywhite&custom_title=My&nbsp;Language&nbsp;⌨️" />
         </a>
       </th>
     </tr>

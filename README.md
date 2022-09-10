@@ -35,22 +35,13 @@
   <br/>
   <br/>
   <br/>
-  <table>
-  <thead>
-    <tr>
-      <th>
-          <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=boram2445&show_icons=true&count_private=true&hide=contribs&hide_border=true&theme=graywhite&custom_title=Boram's&nbsp;github&nbsp;👀" />
-        </a>
-      </th>
-      <th>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boram2445&count_private=true&layout=compact&hide_border=true&theme=graywhite&custom_title=My&nbsp;Language&nbsp;⌨️" />
-        </a>
-      </th>
-    </tr>
-  </thead>
-</table>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=boram2445&show_icons=true&count_private=true&hide=contribs&hide_border=true&theme=graywhite&custom_title=Boram's&nbsp;github&nbsp;👀" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boram2445&langs_count=6&layout=compact&hide_border=true&theme=graywhite&custom_title=My&nbsp;Language&nbsp;⌨️" />
+  </a>
 </div>
 <!--
   배워야 할 스택

@@ -36,13 +36,24 @@
   <br/>
   <br/>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=boram2445&show_icons=true&count_private=true&hide=contribs&hide_border=true&theme=graywhite&custom_title=Boram's&nbsp;github&nbsp;👀" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boram2445&langs_count=6&layout=compact&hide_border=true&theme=graywhite&custom_title=My&nbsp;Language&nbsp;⌨️" />
-  </a>
+  <table>
+    <thead>
+      <tr>
+        <th>
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+               <img align="center" src="https://github-readme-stats.vercel.app/api?username=boram2445&show_icons=true&count_private=true&hide=contribs&hide_border=true&theme=graywhite&custom_title=Boram's&nbsp;github&nbsp;👀" />
+          </a>
+        </th>
+        <th>
+          <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=boram2445&langs_count=6&layout=compact&hide_border=true&theme=graywhite&custom_title=My&nbsp;Language&nbsp;⌨️" />
+          </a>
+        </th>
+      </tr>
+    </thead>
+  </table>
 </div>
+
 <!--
   배워야 할 스택
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
